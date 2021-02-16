@@ -4,13 +4,14 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 
 ## Módulos do Curso
 
-**Fundamentos: NumPy, Stats, SQL e DataViz**
+#### Fundamentos: NumPy, Stats, SQL e DataViz
 * *Python e Numpy* 
 * *Estatística descritiva*
 * *SQL e Bancos de Dados*
 * *Introdução a Gráficos e Visualização*
 
----
+*** 
+
 #### Exploratory Data Analysis (EDA), Pandas e SciPy
 * *Pandas e Tabelas Pivot*
 * *Limpeza de dados*
