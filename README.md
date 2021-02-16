@@ -2,15 +2,15 @@
 
 Neste repositório contém todos os trabalhos e projetos do curso de Data Science na Digital House.
 
-### Desafios Práticos
----
+## Desafios Práticos
+
 *Projeto: URL* <br> 
 *Projeto: URL* <br> 
 *Projeto: URL* <br> 
 
 ## Conteúdo do Curso
 
-**NumPy, Stats, SQL e DataViz:** <br>
+**Módulo 0: NumPy, Stats, SQL e DataViz** <br>
 Python, numpy, estatística descritiva, SQL e bancos de Dados.
 
 **Exploratory Data Analysis (EDA), Pandas e SciPy:** <br>
