@@ -3,16 +3,10 @@
 Neste repositório contém todos os trabalhos e projetos do curso de Data Science na Digital House.
 
 ## Desafios
-*Desafio 0: URL* <br> 
-*Desafio 1: URL* <br>
-*Desafio 2: URL* <br>
-*Desafio 3: URL* <br>
-*Desafio 4: URL* <br>
-*Desafio 5: URL* <br>
-*Desafio 6: URL* <br>
-*Desafio 7: URL* <br>
+*Análise dataset IBGE: URL* <br> 
 
-## Módulos do Curso
+
+### Módulos do Curso
 
 
 ##### NumPy, Stats, SQL e DataViz
