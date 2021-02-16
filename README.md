@@ -5,9 +5,10 @@ Neste repositório com todos os trabalhos do curso de Data Science na Digital Ho
 ### Módulos do Curso
 ---
 #### Fundamentos: NumPy, Stats, SQL e DataViz
-Python e Numpy |  Estatística descritiva
-* SQL e Bancos de Dados
-* Introdução a Gráficos e Visualização
+* *Python e Numpy 
+* *Estatística descritiva
+* *SQL e Bancos de Dados
+* *Introdução a Gráficos e Visualização
 
 ---
 #### Exploratory Data Analysis (EDA), Pandas e SciPy
