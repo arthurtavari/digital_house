@@ -13,21 +13,23 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 **Módulo 0: NumPy, Stats, SQL e DataViz** <br>
 Python, numpy, estatística descritiva, SQL e bancos de Dados.
 
-**Exploratory Data Analysis (EDA), Pandas e SciPy:** <br>
+**Módulo 1: Exploratory Data Analysis (EDA), Pandas e SciPy** <br>
 Limpeza de dados, EDA (Análise Exploratória de Dados) e Estatística Inferencial. 
 
-**Introdução a Regressão Linear, Modelagem Estatística, Regressão Logística, Statsmodels e Scikit-Learn:** <br>
+**Módulo 2: Introdução a Regressão Linear, Modelagem Estatística, Regressão Logística, Statsmodels e Scikit-Learn** <br>
 Regressão linear simples e múltipla, modelagem estatística,statsmodels e scikit-Learn.
 
-**SQL, Web Scrapping, Consumindo APIs, Introdução ao Machine Learning, Compressão e Clusterização de dados:** <br>
+**Módulo 3: SQL, Web Scrapping, Consumindo APIs, Introdução ao Machine Learning, Compressão e Clusterização de dados** <br>
 Machine Learning e Web Scraping.
 
-**Classificação, árvores de Decisão e regularização:** <br>
+**Módulo 4: Classificação, árvores de Decisão e regularização** <br>
 Algoritmos usados para problemas de classificação e árvores de decisão.
 
-**Ensembles e sistemas de recomendação:** <br>
+**Módulo 5: Ensembles e sistemas de recomendação** <br>
 Modelos de ensemble e sistemas de recomendação.
 
-**Criação de APIs, Deploy de Modelos, Séries Temporais e interpretação de Modelos:** <br>
+**Módulo 6: Criação de APIs, Deploy de Modelos, Séries Temporais e interpretação de Modelos** <br>
 Criação de APIs, deploy de modelos e séries temporais.
 
+**Módulo 7:Agile, Ética e Privacidade e Apresentação do Projeto Integrador** <br>
+Agile, ética, privacidade e projeto integrado.
