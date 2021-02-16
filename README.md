@@ -3,14 +3,14 @@
 Neste repositório contém todos os trabalhos e projetos do curso de Data Science na Digital House.
 
 ## Desafios
-* *Desafio 0: URL*  
-* *Desafio 1: URL*
-* *Desafio 2: URL*
-* *Desafio 3: URL*
-* *Desafio 4: URL*
-* *Desafio 5: URL*
-* *Desafio 6: URL*
-* *Desafio 7: URL*
+*Desafio 0: URL*  
+*Desafio 1: URL*
+*Desafio 2: URL*
+*Desafio 3: URL*
+*Desafio 4: URL*
+*Desafio 5: URL*
+*Desafio 6: URL*
+*Desafio 7: URL*
 
 ## Módulos do Curso
 
