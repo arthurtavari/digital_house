@@ -2,8 +2,8 @@
 
 Neste repositório com todos os trabalhos do curso de Data Science na Digital House.
 
-### Módulos do Curso
----
+## Módulos do Curso
+
 #### Fundamentos: NumPy, Stats, SQL e DataViz
 * *Python e Numpy* 
 * *Estatística descritiva*
