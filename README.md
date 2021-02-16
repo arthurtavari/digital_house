@@ -4,9 +4,9 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 
 ### Desafios Práticos
 ---
-*PROJETO: URL* <br> 
-*PROJETO: URL* <br>
-*PROJETO: URL* <br>
+*Projeto: URL* <br> 
+*Projeto: URL* <br> 
+*Projeto: URL* <br> 
 
 ### Conteúdo do Curso
 ---
