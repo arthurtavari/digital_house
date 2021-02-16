@@ -16,12 +16,10 @@ Python, numpy, estatística descritiva, SQL e bancos de Dados
 **Exploratory Data Analysis (EDA), Pandas e SciPy:** <br>
 Limpeza de dados, EDA (Análise Exploratória de Dados) e Estatística Inferencial 
 
-##### Introdução a Regressão Linear, Modelagem Estatística, Regressão Logística, Statsmodels e Scikit-Learn
-* *Regressão Linear Simples e Múltipla*
-* *Modelagem Estatística*
-* *Statsmodels e Scikit-Learn*
+**Introdução a Regressão Linear, Modelagem Estatística, Regressão Logística, Statsmodels e Scikit-Learn:** <br>
+Regressão linear simples e múltipla, modelagem estatística,statsmodels e scikit-Learn
 
-##### SQL, Web Scrapping, Consumindo APIs, Introdução ao Machine Learning, Compressão e Clusterização de dados
+**SQL, Web Scrapping, Consumindo APIs, Introdução ao Machine Learning, Compressão e Clusterização de dados:** <br>
 * *Machine Learning*
 * *Web Scraping*
 
