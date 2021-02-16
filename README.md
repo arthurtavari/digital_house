@@ -8,8 +8,8 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 *Projeto: URL* <br> 
 *Projeto: URL* <br> 
 
-### Conteúdo do Curso
----
+## Conteúdo do Curso
+
 **NumPy, Stats, SQL e DataViz:** <br>
 Python, numpy, estatística descritiva, SQL e bancos de Dados.
 
@@ -26,8 +26,8 @@ Machine Learning e Web Scraping.
 Algoritmos usados para problemas de classificação e árvores de decisão.
 
 **Ensembles e sistemas de recomendação:** <br>
-Modelos de ensemble e sistemas de recomendação
+Modelos de ensemble e sistemas de recomendação.
 
 **Criação de APIs, Deploy de Modelos, Séries Temporais e interpretação de Modelos:** <br>
-Criação de APIs, deploy de modelos e séries temporais
+Criação de APIs, deploy de modelos e séries temporais.
 
