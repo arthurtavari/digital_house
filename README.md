@@ -1,7 +1,8 @@
 ![img](https://raw.githubusercontent.com/arthurtavari/portfolio_data_science/master/img/layout.jpg)
-## Data Science
+
 Neste repositório com todos os trabalhos do curso de Data Science na Digital House.
 
+## Módulos do Curso
 ---
 #### Fundamentos: NumPy, Stats, SQL e DataViz
 * Python e Numpy
