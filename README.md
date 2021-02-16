@@ -2,7 +2,7 @@
 ## Data Science
 Repositório com todos os trabalhos no curso de Data Science na Digital House.
 
-MÓDULO 0: Fundamentos: NumPy, Stats, SQL e DataViz
+*MÓDULO 0: Fundamentos: NumPy, Stats, SQL e DataViz* <br>
 • Python e Numpy <br>
 • Estatística descritiva <br>
 • SQL e Bancos de Dados <br>
