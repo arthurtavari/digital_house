@@ -2,11 +2,10 @@
 ## Data Science
 Repositório com todos os trabalhos no curso de Data Science na Digital House.
 
-**MÓDULO 0: Fundamentos: NumPy, Stats, SQL e DataViz**
-
-• Python e Numpy
-• Estatística descritiva
-• SQL e Bancos de Dados
+MÓDULO 0: Fundamentos: NumPy, Stats, SQL e DataViz
+• Python e Numpy <br>
+• Estatística descritiva <br>
+• SQL e Bancos de Dados <br>
 • Introdução a Gráficos e Visualização
 
 Com um dataset com dados demográficos do IBGE, os participantes realizarão uma análise exploratória utilizando NumPy e Matplotlib, aplicando técnicas básicas de estatística descritiva. 
