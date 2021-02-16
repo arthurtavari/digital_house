@@ -10,10 +10,10 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 
 ### Conteúdo do Curso
 ---
-*NumPy, Stats, SQL e DataViz:* 
+**NumPy, Stats, SQL e DataViz:** <br>
 Python, numpy, estatística descritiva, SQL e bancos de Dados
 
-*Exploratory Data Analysis (EDA), Pandas e SciPy:* 
+**Exploratory Data Analysis (EDA), Pandas e SciPy:** <br>
 Limpeza de dados, EDA (Análise Exploratória de Dados) e Estatística Inferencial 
 
 ##### Introdução a Regressão Linear, Modelagem Estatística, Regressão Logística, Statsmodels e Scikit-Learn
