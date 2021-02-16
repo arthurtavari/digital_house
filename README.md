@@ -11,7 +11,11 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 * *SQL e Bancos de Dados*
 * *Introdução a Gráficos e Visualização*
 
-Exploratory Data Analysis (EDA), Pandas e SciPy | Pandas,Limpeza de dados, EDA, Estatística Inferencial 
+##### Exploratory Data Analysis (EDA), Pandas e SciPy
+* *Pandas*
+* *Limpeza de dados*
+* *EDA (Análise Exploratória de Dados)* 
+* *Estatística Inferencial* 
 
 Introdução a Regressão Linear, Modelagem Estatística, Regressão Logística, Statsmodels e Scikit-Learn | Regressão Linear Simples e Múltipla, Regressão Logística, Modelagem 
 Estatística, Statsmodels e Scikit-Learn
