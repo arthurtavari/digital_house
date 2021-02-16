@@ -6,7 +6,10 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 
 
 ##### NumPy, Stats, SQL e DataViz
-Python e Numpy, Estatística descritiva, SQL e Bancos de Dados, Introdução a Gráficos e Visualização
+* *Python e Numpy*
+* *Estatística descritiva*
+* *SQL e Bancos de Dados*
+* *Introdução a Gráficos e Visualização*
 
 Exploratory Data Analysis (EDA), Pandas e SciPy | Pandas,Limpeza de dados, EDA, Estatística Inferencial 
 
