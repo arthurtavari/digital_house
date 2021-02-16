@@ -14,13 +14,13 @@ Neste repositório contém todos os trabalhos e projetos do curso de Data Scienc
 Python, numpy, estatística descritiva, SQL e bancos de Dados.
 
 **Módulo 1: Exploratory Data Analysis (EDA), Pandas e SciPy** <br>
-Limpeza de dados, EDA (Análise Exploratória de Dados) e Estatística Inferencial. 
+Limpeza de dados e Estatística Inferencial. 
 
 **Módulo 2: Introdução a Regressão Linear, Modelagem Estatística, Regressão Logística, Statsmodels e Scikit-Learn** <br>
-Regressão linear simples e múltipla, modelagem estatística,statsmodels e scikit-Learn.
+Regressão linear simples e múltipla, modelagem estatística, statsmodels e scikit-Learn.
 
 **Módulo 3: SQL, Web Scrapping, Consumindo APIs, Introdução ao Machine Learning, Compressão e Clusterização de dados** <br>
-Machine Learning e Web Scraping.
+Machine learning e web scraping.
 
 **Módulo 4: Classificação, árvores de Decisão e regularização** <br>
 Algoritmos usados para problemas de classificação e árvores de decisão.
